@@ -1,0 +1,14 @@
+C:\Users\Marcio\Desktop\sistema bancario\bin\Debug\net8.0\sistema bancario.exe
+C:\Users\Marcio\Desktop\sistema bancario\bin\Debug\net8.0\sistema bancario.deps.json
+C:\Users\Marcio\Desktop\sistema bancario\bin\Debug\net8.0\sistema bancario.runtimeconfig.json
+C:\Users\Marcio\Desktop\sistema bancario\bin\Debug\net8.0\sistema bancario.dll
+C:\Users\Marcio\Desktop\sistema bancario\bin\Debug\net8.0\sistema bancario.pdb
+C:\Users\Marcio\Desktop\sistema bancario\obj\Debug\net8.0\sistema bancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcio\Desktop\sistema bancario\obj\Debug\net8.0\sistema bancario.AssemblyInfoInputs.cache
+C:\Users\Marcio\Desktop\sistema bancario\obj\Debug\net8.0\sistema bancario.AssemblyInfo.cs
+C:\Users\Marcio\Desktop\sistema bancario\obj\Debug\net8.0\sistema bancario.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\Desktop\sistema bancario\obj\Debug\net8.0\sistema bancario.dll
+C:\Users\Marcio\Desktop\sistema bancario\obj\Debug\net8.0\refint\sistema bancario.dll
+C:\Users\Marcio\Desktop\sistema bancario\obj\Debug\net8.0\sistema bancario.pdb
+C:\Users\Marcio\Desktop\sistema bancario\obj\Debug\net8.0\sistema bancario.genruntimeconfig.cache
+C:\Users\Marcio\Desktop\sistema bancario\obj\Debug\net8.0\ref\sistema bancario.dll
